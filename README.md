@@ -4,3 +4,5 @@
  with doctors easily.
  You can sign up, log in, and even use OTP to verify your account. 
  (approve or reject them), and handle patient documents like PDFs.
+
+If anyone want's to contribute feel free.
